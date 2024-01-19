@@ -1,0 +1,23 @@
+[33mtag V1.1[m
+Tagger: prasugowda <prasad.prasugowda@gmail.com>
+Date:   Fri Jan 19 14:14:27 2024 +0530
+
+tag for relese V1.1
+
+[33mcommit dbf751f20a6233313147622fef6918ea8eb3670b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: V1.1[m[33m, [m[1;33mtag: V1.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: prasugowda <116138616+prasugowda@users.noreply.github.com>
+Date:   Fri Jan 19 13:44:02 2024 +0530
+
+    Update README.md
+    
+    changes done in remotely
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 0be64e6..c0e537a 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -2,3 +2,4 @@[m
+ Remote repository creating for demo [m
+ remote change 1[m
+ changed locally[m
+[32m+[m[32mchange remotely[m
